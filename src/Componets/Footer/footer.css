@@ -1,0 +1,24 @@
+.card-One{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Card-Image1{
+    height: 155px;
+    width: 170px;
+    margin: 10px;
+    
+}
+.footer{
+    height: 50px;
+    background-color: black;
+}

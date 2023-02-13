@@ -1,0 +1,28 @@
+.container{
+    justify-self: center;
+    
+}
+
+.Carousel-Img{
+   height: 70vh;
+    width:1000px;
+}
+
+.Carousel-Images{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.carousel-buttons button{
+    margin: 0 300px;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    
+   }
+
+   button:hover{
+    color:blue;
+    border-color: brown;
+   }

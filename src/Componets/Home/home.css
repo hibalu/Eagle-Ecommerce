@@ -1,0 +1,48 @@
+*body{
+    margin: 0;
+    padding: 0;
+    
+}
+.cardImage{
+    height: 500px;
+    margin: 10px;
+}
+
+.cards{
+    display: grid;
+    justify-content: center;
+ 
+}
+form{
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+.number{
+    background-color: transparent;
+}
+.New-Button{
+    margin: 25px;
+    border: none;
+    border-radius: 10px;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.New-Button:hover{
+ 
+    background-color: transparent;
+}
+.h2{
+    justify-content: center;
+    text-align: center;
+    background-color: aquamarine;
+}
+.footer{
+    background-color: black;
+    height: 50px;
+    color: aliceblue;
+}
+.cardImage:hover{
+    background-position: 100px;
+}

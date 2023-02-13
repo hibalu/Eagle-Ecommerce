@@ -1,0 +1,29 @@
+.Women-Cards{
+    display: flex;
+    justify-content: center;
+   justify-content: space-evenly;
+  
+}
+
+.women-Card1{
+    background-color:transparent;
+    height: 460px;
+    width: 220px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1.5px solid black;
+  border-radius: 10px;
+}
+.Card1-Img{
+    height:70%;
+    width: 200px;
+    margin: 15px;
+}
+.span{
+    color: red;
+}
+marquee{
+    color:red;
+    background-color: aquamarine;
+}
